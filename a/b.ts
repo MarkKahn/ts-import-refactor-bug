@@ -1,1 +1,1 @@
-export function b() {}
+export default function b() {}
